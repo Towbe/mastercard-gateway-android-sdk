@@ -86,7 +86,7 @@ task androidSourcesJar(type: Jar) {
 publishing {
     publications {
         aar(MavenPublication) {
-            groupId = 'com.towbe.mastercard.gateway'
+            groupId = 'com.mastercard.gateway'
             artifactId project.name
             version = libraryVersionName
 
