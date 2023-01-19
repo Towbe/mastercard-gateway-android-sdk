@@ -1,1 +1,1 @@
-include ':sample', ':gateway-android'
+include ':gateway-android'

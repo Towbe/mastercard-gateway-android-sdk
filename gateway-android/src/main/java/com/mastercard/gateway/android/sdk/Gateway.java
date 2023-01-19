@@ -69,7 +69,8 @@ public class Gateway {
         NORTH_AMERICA("na."),
         INDIA("in."),
         CHINA("cn."),
-        MTF("mtf.");
+        MTF("mtf."),
+        CREDIT_LIBANAIS("creditlibanais-netcommerce.");
 
         String prefix;
 
